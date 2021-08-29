@@ -1,7 +1,15 @@
+[![author](https://img.shields.io/badge/author-RafaelGallo-red.svg)](https://github.com/RafaelGallo?tab=repositories) 
+[![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-374/) 
+[![](https://img.shields.io/badge/Pandas-blue.svg)](https://pandas.pydata.org/) 
+[![](https://img.shields.io/badge/Matplotlib-blue.svg)](https://matplotlib.org/)
+[![](https://img.shields.io/badge/plotly-green.svg)](https://plotly.com/)
+[![](https://img.shields.io/badge/Seaborn-green.svg)](https://seaborn.pydata.org/)
+[![](https://img.shields.io/badge/Matplotlib-orange.svg)](https://scikit-learn.org/stable/) 
+[![](https://img.shields.io/badge/Scikit_Learn-green.svg)](https://scikit-learn.org/stable/)
+[![](https://img.shields.io/badge/Numpy-White.svg)](https://numpy.org/)
+
+
 ![image](https://user-images.githubusercontent.com/72530507/131258205-918dcf59-d592-4780-85b8-0233ba24d737.png)
-
-
-
 
 # Analise de Churn
 
