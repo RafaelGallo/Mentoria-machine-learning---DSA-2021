@@ -55,10 +55,10 @@ Em muitos casos o MRR Churn acaba sendo mais importante que o churn rate, isso s
 
 
 # Projeto 02 - Bitcoin
+Análise de dados de criptomoedas para predição do seu valor no mercado
 
 ![](https://github.com/RafaelGallo/Mentoria-machine-learning---DSA-2021/blob/main/project%20-%20ML/Projeto%2002%20Bitcoin/img/img_01.jpg)
 
-Título: Análise de dados de criptomoedas para predição do seu valor no mercado
 1)Descrição
 
 Criptomoedas são moedas digitais que não existem fisicamente e não são emitidas por nenhum governo. Elas têm três principais funções: 1) servir como meio de troca, facilitando as transações comerciais; 2) reserva de valor, para a preservação do poder de compra no futuro; 3) unidade de conta, quando os produtos são precificados e o cálculo econômico é realizado em função dela (Infomoney, 2021).
