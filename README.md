@@ -10,7 +10,12 @@
 [![](https://img.shields.io/badge/Scikit_Learn-green.svg)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/Numpy-White.svg)](https://numpy.org/)
 
+
+
+
 ![](https://github.com/RafaelGallo/Mentoria-machine-learning---DSA-2021/blob/main/src/25332.jpg)
+
+
 
 # Projeto 01 - Churn
 Customer Churn (ou Rotatividade de Clientes, em uma tradução livre) refere-se a uma decisão tomada pelo cliente sobre o término do relacionamento comercial. Refere-se também à perda de clientes. A fidelidade do cliente e a rotatividade de clientes sempre somam 100%. Se uma empresa tem uma taxa de fidelidade de 60%, então a taxa de perda de clientes é de 40%. De acordo com a regra de lucratividade do cliente 80/20, 20% dos clientes estão gerando 80% da receita. Portanto, é muito importante prever os usuários que provavelmente abandonarão o relacionamento comercial e os fatores que afetam as decisões do cliente.
@@ -37,7 +42,9 @@ Churn Rate: total de clientes cancelados / número total de clientes ativos do �
 A diferença é simples. *Churn rate* representa o número de clientes que cancelam num determinado período, já o *Churn de Receita* representa o quanto de receita é perdida dentro desse lote de clientes.
 
 
+
 ![image](https://user-images.githubusercontent.com/72530507/131258231-370315c1-dc6a-482d-88fd-c5aa2351944f.png)
+
 
 
 * Churn de Receita ou MRR Churn**
@@ -54,10 +61,15 @@ Algo interessante sobre a análise do MRR churn é o insight que ele possibilita
 Em muitos casos o MRR Churn acaba sendo mais importante que o churn rate, isso somente se as contas que estão saindo são contas de baixa receita. Porém, existe um contrapeso para compensar esse furo. É importante que seus maiores e mais importantes clientes continuem ativos e crescendo, o que significa trazer mais receita.
 
 
+
 # Projeto 02 - Bitcoin
 Análise de dados de criptomoedas para predição do seu valor no mercado
 
+
+
 ![](https://github.com/RafaelGallo/Mentoria-machine-learning---DSA-2021/blob/main/project%20-%20ML/Projeto%2002%20Bitcoin/img/img_01.jpg)
+
+
 
 1)Descrição
 
