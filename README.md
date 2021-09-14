@@ -52,3 +52,11 @@ MRR CHURN % = MRR Churn / MRR último mês
 Algo interessante sobre a análise do MRR churn é o insight que ele possibilita sobre downgrades e upgrades, duas métricas muito importantes que não são medidas pelo churn rate, por exemplo.
 
 Em muitos casos o MRR Churn acaba sendo mais importante que o churn rate, isso somente se as contas que estão saindo são contas de baixa receita. Porém, existe um contrapeso para compensar esse furo. É importante que seus maiores e mais importantes clientes continuem ativos e crescendo, o que significa trazer mais receita.
+
+# Projeto da mentoria Data Science Academy
+
+Projeto 01 - Churn
+
+Projeto 02 - Bitcoin
+
+
