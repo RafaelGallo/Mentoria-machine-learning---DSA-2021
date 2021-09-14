@@ -56,6 +56,8 @@ Em muitos casos o MRR Churn acaba sendo mais importante que o churn rate, isso s
 
 # Projeto 02 - Bitcoin
 
+![](https://github.com/RafaelGallo/Mentoria-machine-learning---DSA-2021/blob/main/project%20-%20ML/Projeto%2002%20Bitcoin/img/img_01.jpg)
+
 Título: Análise de dados de criptomoedas para predição do seu valor no mercado
 1)Descrição
 
